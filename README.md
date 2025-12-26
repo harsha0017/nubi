@@ -22,4 +22,4 @@ We may update this policy from time to time.
 
 Contact Us
 If you have questions about this Privacy Policy, contact us at:
-support@yourdomain.com
+nubisarang@gmail.com
