@@ -1,6 +1,6 @@
 Privacy Policy
 
-This Privacy Policy describes how [Your App Name] collects, uses, and protects user information.
+This Privacy Policy describes how Nubi collects, uses, and protects user information.
 
 Information We Collect
 We may collect personal information such as phone number, profile details, location data, and user-generated content to provide app functionality.
